@@ -1,5 +1,5 @@
 # Lista de projetos
-Listagem de projetos e seus repositórios
+**Listagem de projetos e seus repositórios** :books:
 
 Este arquivo reúne uma série de projetos pessoais que fiz, alguns deles foram frutos de testes técnicos, outros de simples prática.
 
