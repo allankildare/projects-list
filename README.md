@@ -1,25 +1,26 @@
-### Listagem de projetos e seus repositórios :books:
+### Project Listing and Repositories :books:
 
-Este arquivo reúne uma coleção de projetos pessoais que desenvolvi ao longo do tempo. Alguns são resultados de testes técnicos, enquanto outros foram criados para prática e aprimoramento de habilidades.
+This file contains a collection of personal projects I have developed over time. Some are results of technical tests, while others were created for practice and skill improvement.
 
-Se você é um recrutador ou um visitante do meu perfil, esses projetos representam meu progresso e dedicação ao desenvolvimento web front-end.
+If you are a recruiter or a visitor to my profile, these projects represent my progress and dedication to front-end web development.
 
-| Nome | Principal stack | Repositório | Website |
+Para acessar a versão em português, [clique aqui](./README-pt.md).
+
+| Name | Main stack | Repository | Website |
 |------|-----------------|-------------|---------|
-| **Trello Clone** | *Nuxt, VueJS, TypeScript* |  [Repositório][trello-clone-repo] | [Website][trello-clone-website] |
-| **Shopping Cart** | *ReactJS, TypeScript, React Query, Material UI* | [Repositório][react-ts-shopping-cart-repo] | [Website][react-ts-shopping-cart-website] |
-| **Github Explorer** | *ReactJS, TypeScript, React Query, Axios* | [Repositório][github-explorer-repo] | [Website][github-explorer-website] |
-| **To Do Vue App** | *VueJS, TypeScript, Vuetify, Pinia* | [Repositório][todo-vue-app-repo] | [Website][todo-vue-app-website] |
-| **Conversor de Moedas** | *ReactJS, JavaScript* | [Repositório][conversor-moeda-repo] | [Website][conversor-moeda-website] |
-| **Resultados de Loteria** | *ReactJS, TypeScript* | [Repositório][resultados-loteria-repo] | [Website][resultados-loteria-website] |
-| **Projeto APOD (NASA)** | *HTML, CSS JavaScript* | [Repositório][projeto-apod-repo] | [Website][projeto-apod-website] |
-| **Desafio Frontend Codeby** | *ReactJS, JavaScript, CSS Modules* | [Repositório][desafio-frontend-codeby-repo] | [Website][desafio-frontend-codeby-website] |
-| **Image Crop** | *HTML, CSS, Javascript, HTML Canvas* | [Repositório][image-crop-repo] | [Website][image-crop-website] |
-| **GitHub API** | *HTML, CSS, Javascript (MVC)* | [Repositório][github-api-repo] | [Website][github-api-website] |
-| **Aplicação web de Meditação** | *HTML, CSS, Javascript* | [Repositório][app-de-meditacao-repo] | [Website][app-de-meditacao-website] |
-| **Ceep App** | *ReactJS, JavaScript* | [Repositório][ceep-app-repo] | [Website][ceep-app-website] |
-| **Clone Netflix** | *HTML, CSS, JQuery* | [Repositório][clone-netflix-repo] | [Website][clone-netflix-website] |
-| **Clone Instagram** | *HTML, CSS* | [Repositório][clone-instagram-repo] | [Website][clone-instagram-website] |
+| **Trello Clone** | *Nuxt, VueJS, TypeScript* |  [Repository][trello-clone-repo] | [Website][trello-clone-website] |
+| **Shopping Cart** | *ReactJS, TypeScript, React Query, Material UI* | [Repository][react-ts-shopping-cart-repo] | [Website][react-ts-shopping-cart-website] |
+| **Github Explorer** | *ReactJS, TypeScript, React Query, Axios* | [Repository][github-explorer-repo] | [Website][github-explorer-website] |
+| **To Do Vue App** | *VueJS, TypeScript, Vuetify, Pinia* | [Repository][todo-vue-app-repo] | [Website][todo-vue-app-website] |
+| **Currency Converter** | *ReactJS, JavaScript* | [Repository][conversor-moeda-repo] | [Website][conversor-moeda-website] |
+| **Lottery Results** | *ReactJS, TypeScript* | [Repository][resultados-loteria-repo] | [Website][resultados-loteria-website] |
+| **APOD Project Image View (NASA)** | *HTML, CSS JavaScript* | [Repository][projeto-apod-repo] | [Website][projeto-apod-website] |
+| **Desafio Frontend Codeby** | *ReactJS, JavaScript, CSS Modules* | [Repository][desafio-frontend-codeby-repo] | [Website][desafio-frontend-codeby-website] |
+| **Image Crop** | *HTML, CSS, Javascript, HTML Canvas* | [Repository][image-crop-repo] | [Website][image-crop-website] |
+| **GitHub API** | *HTML, CSS, Javascript (MVC)* | [Repository][github-api-repo] | [Website][github-api-website] |
+| **Meditation App** | *HTML, CSS, Javascript* | [Repository][app-de-meditacao-repo] | [Website][app-de-meditacao-website] |
+| **Ceep App** | *ReactJS, JavaScript* | [Repository][ceep-app-repo] | [Website][ceep-app-website] |
+| **Netflix Clone** | *HTML, CSS, JQuery* | [Repository][clone-netflix-repo] | [Website][clone-netflix-website] |
 
 <!-- VARIAVEIS -->
 [trello-clone-repo]: https://github.com/allankildare/trello-clone-nuxt-3
