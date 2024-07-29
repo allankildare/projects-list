@@ -1,19 +1,17 @@
-# Lista de projetos
-**Listagem de projetos e seus repositórios** :books:
+### Listagem de projetos e seus repositórios :books:
 
-Este arquivo reúne uma série de projetos pessoais que fiz, alguns deles foram frutos de testes técnicos, outros de simples prática.
+Este arquivo reúne uma coleção de projetos pessoais que desenvolvi ao longo do tempo. Alguns são resultados de testes técnicos, enquanto outros foram criados para prática e aprimoramento de habilidades.
 
-Se você é um recrutador (ou simples visitante do meu perfil), esses são alguns dos projetos dos quais eu tenho orgulho e que servem para analisar minha evolução dentro do desenvolvimento web front-end.
-
-**Os projetos estão organizados por ordem cronológica decrescente (mais atual ao mais antigo)**
+Se você é um recrutador ou um visitante do meu perfil, esses projetos representam meu progresso e dedicação ao desenvolvimento web front-end.
 
 | Nome | Principal stack | Repositório | Website |
 |------|-----------------|-------------|---------|
-| **To Do Vue App** | *VueJS, TypeScript, Vuetify, Pinia* | [Repositório][todo-vue-app-repo] | [Website][todo-vue-app-website] |
-| **Resultados de Loteria** | *ReactJS, TypeScript* | [Repositório][resultados-loteria-repo] | [Website][resultados-loteria-website] |
-| **Github Explorer** | *ReactJS, TypeScript, React Query, Axios* | [Repositório][github-explorer-repo] | [Website][github-explorer-website] |
+| **Trello Clone** | *Nuxt, VueJS, TypeScript* |  [Repositório][trello-clone-repo] | [Website][trello-clone-website] |
 | **Shopping Cart** | *ReactJS, TypeScript, React Query, Material UI* | [Repositório][react-ts-shopping-cart-repo] | [Website][react-ts-shopping-cart-website] |
+| **Github Explorer** | *ReactJS, TypeScript, React Query, Axios* | [Repositório][github-explorer-repo] | [Website][github-explorer-website] |
+| **To Do Vue App** | *VueJS, TypeScript, Vuetify, Pinia* | [Repositório][todo-vue-app-repo] | [Website][todo-vue-app-website] |
 | **Conversor de Moedas** | *ReactJS, JavaScript* | [Repositório][conversor-moeda-repo] | [Website][conversor-moeda-website] |
+| **Resultados de Loteria** | *ReactJS, TypeScript* | [Repositório][resultados-loteria-repo] | [Website][resultados-loteria-website] |
 | **Projeto APOD (NASA)** | *HTML, CSS JavaScript* | [Repositório][projeto-apod-repo] | [Website][projeto-apod-website] |
 | **Desafio Frontend Codeby** | *ReactJS, JavaScript, CSS Modules* | [Repositório][desafio-frontend-codeby-repo] | [Website][desafio-frontend-codeby-website] |
 | **Image Crop** | *HTML, CSS, Javascript, HTML Canvas* | [Repositório][image-crop-repo] | [Website][image-crop-website] |
@@ -24,6 +22,8 @@ Se você é um recrutador (ou simples visitante do meu perfil), esses são algun
 | **Clone Instagram** | *HTML, CSS* | [Repositório][clone-instagram-repo] | [Website][clone-instagram-website] |
 
 <!-- VARIAVEIS -->
+[trello-clone-repo]: https://github.com/allankildare/trello-clone-nuxt-3
+[trello-clone-website]: https://mini-trello-nuxt-allankildre.netlify.app/
 [todo-vue-app-repo]: https://github.com/allankildare/todo-vue-app
 [todo-vue-app-website]: https://todo-vue-app-allankildare.netlify.app/
 [resultados-loteria-repo]: https://github.com/allankildare/resultados-loteria
