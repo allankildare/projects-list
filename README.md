@@ -4,7 +4,7 @@ This file contains a collection of personal projects I have developed over time.
 
 If you are a recruiter or a visitor to my profile, these projects represent my progress and dedication to front-end web development.
 
-Para acessar a versão em português, [clique aqui](./README-pt.md).
+Para acessar a versão em **português**, [clique aqui](./README-pt.md).
 
 | Name | Main stack | Repository | Website |
 |------|-----------------|-------------|---------|
